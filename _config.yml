@@ -77,6 +77,9 @@ author:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCNrZCiqSsmhrFQTHcDNaLTA/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/company/blacktidesdata/"
 
 footer:
   links:
