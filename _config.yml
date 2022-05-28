@@ -63,7 +63,7 @@ author:
   bio    : "BlackTIDES supports the professional growth and technical development of Black data professionals in Technology, Informatics, Data Science, Epidemiology, and Social Sciences."
   links:
     - label: "Website"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-link"
       url: "https://blacktidesdata.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -75,7 +75,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
     - label: "Youtube"
-      icon: "fas fa-fw fa-youtube"
+      icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCNrZCiqSsmhrFQTHcDNaLTA"
 
 footer:
