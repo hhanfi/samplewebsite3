@@ -67,7 +67,7 @@ author:
       url: "https://blacktidesdata.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/BlackTIDES1"
+      url: "https://twitter.com/BlackTIDES1/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
@@ -76,13 +76,13 @@ author:
       url: "https://instagram.com/"
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/channel/UCNrZCiqSsmhrFQTHcDNaLTA"
+      url: "https://www.youtube.com/channel/UCNrZCiqSsmhrFQTHcDNaLTA/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/BlackTIDES1"
+      url: "https://twitter.com/BlackTIDES1/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
