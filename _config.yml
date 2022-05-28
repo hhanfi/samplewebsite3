@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "BlackTIDES"
+  avatar : "/assets/images/BlackTIDES logo.png"
+  bio    : "BlackTIDES supports the professional growth and technical development of Black data professionals in Technology, Informatics, Data Science, Epidemiology, and Social Sciences."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
